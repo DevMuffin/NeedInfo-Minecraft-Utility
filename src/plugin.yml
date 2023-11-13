@@ -1,0 +1,11 @@
+name: DBNeedInfo
+main: com.dungeonbuilder.needinfo.NeedInfoPlugin
+version: 0.1
+api-version: "1.20"
+commands:
+  needinfoplugintest:
+    description: Test NeedInfo
+depend:
+  - FastAsyncWorldEdit
+  - WorldEdit
+  - DBUtils
